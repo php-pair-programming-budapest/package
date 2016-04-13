@@ -14,5 +14,10 @@
     "require": {
         "php": ">=5.4",
         "cocur/slugify": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpPairProgrammingBudapest\\Package": "src/"
+        }
     }
 }
