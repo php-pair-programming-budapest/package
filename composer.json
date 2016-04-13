@@ -11,5 +11,7 @@
             "email": "mark.sagikazar@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "cocur/slugify": "^2.1"
+    }
 }
