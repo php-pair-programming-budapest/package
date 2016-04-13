@@ -8,7 +8,7 @@
 Composerrel:
 
 ``` bash
-$ composre require php-pair-programming-budapest/package
+$ composer require php-pair-programming-budapest/package
 ```
 
 ## Leírás
